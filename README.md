@@ -10,7 +10,7 @@ the page. There are nine time blocks for each hours from 9 am to 5 pm.
 ## Installation
 
 No steps needed to install. Just follow this URL to get to website.
-URL: 
+URL: https://alfredoji.github.io/work-day-scheduler/ 
 
 ## Usage
 
